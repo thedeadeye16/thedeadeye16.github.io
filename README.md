@@ -26,4 +26,4 @@ Odinson | Laufeyson
 
 [Famous website for chess](https://chess.com/)
 
-<h1 align="center">WHAT?????</h1>
+<h1 align="center">Bhupendra Jogi</h1>
